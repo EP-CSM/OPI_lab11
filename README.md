@@ -1,2 +1,9 @@
 # OPI_lab11
-Лабораторная работа 11,гит и тд.
+Sidorov
+Roman
+Pavlovich
+FIT
+Software Engineering
+Basic Software Engineering
+curs 1,group 1,podhroup 2
+
